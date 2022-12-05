@@ -16,10 +16,13 @@ A challenge that I encountered, was building the chart for Outcomes Based on Goa
 ## Results
 
 Two conclusions I can draw about the Outcomes based on Launch Date are the following:
+
 -Campaigns were more successful when launched during the summer months.
+
 -December was the only month where the success rate and the failed rate were almost identical but overall, when looking at the total of 1369 campaigns 61% of those were successful.
 
 A conclusion about the Outcomes based on Goals graph is the following:
+
 -Goals under $15,000 were successful.
 
 A limitation that I encountered when analyzing the data was the different currencies. When creating the Outcomes Based on Goals, if they met their goal, it was successful. But when grouping into different goal ranges, is it accurate when we have different currencies? In the future, I would make sure the goals are in the same currency to better group goal ranges with the correct values.
