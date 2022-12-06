@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Louise wanted to start a crowdfunding campaign to help fund her play, *Fever*. She estimated a budget of over $10,000 and was uncertain about embarking in her first fundraising campaign. Statistics were analyzed for kickstarters in the plays and theater categories and found that there were more campaigns that were successful. After the analysis was conducted, Louise started her campaign and came close to her fundraising goal. Now, she wants us to analyze how different campaigns performed in relation to their launch dates and their funding goals.
+Louise wanted to start a crowdfunding campaign to help fund her play, *Fever*. She estimated a budget of over $10,000 and was uncertain about embarking in her first fundraising campaign. Statistics were analyzed for kickstarters in the plays and theater categories and found that there was a bigger rate of successful campaigns. After the analysis was conducted, Louise started her campaign and came close to her fundraising goal. Now, she wants an analysis of how different campaigns performed in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
